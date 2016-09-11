@@ -98,7 +98,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1983-W-SL-GBR-01A-1983,Wimbledon,Grass,128,G,19830620,017,200477,,,Susan Rimes,U,,USA,,,,200935,,,Florenta Mihai,U,,ROU,,,,6-2 6-3,3,Q1
 1983-W-SL-GBR-01A-1983,Wimbledon,Grass,128,G,19830620,018,201159,,,Sheila Mcinerney,U,,USA,,,,203824,,,Tonia Bayley,U,,AUS,,,,7-5 6-0,3,Q1
 1983-W-SL-GBR-01A-1983,Wimbledon,Grass,128,G,19830620,019,201875,,,Vicki Marler,U,,AUS,,,,201000,,,Nathalie Phan Thanh,U,,FRA,,,,6-4 7-5,3,Q1
-1983-W-SL-GBR-01A-1983,Wimbledon,Grass,128,G,19830620,020,200385,,,Brenda Remilton,U,,AUS,,,,203825,,,Jennifer Obrien,U,,IRL,,,,6-3 6-2,3,Q1
+1983-W-SL-GBR-01A-1983,Wimbledon,Grass,128,G,19830620,020,200385,,,Brenda Remilton,U,,AUS,,,,203825,,,Jennifer O'Brien,U,,IRL,,,,6-3 6-2,3,Q1
 1983-W-SL-GBR-01A-1983,Wimbledon,Grass,128,G,19830620,021,201173,,,Sally Reeves,U,,GBR,,,,201020,,,Petra Huber,U,,AUT,,,,1-6 6-4 8-6,3,Q1
 1983-W-SL-GBR-01A-1983,Wimbledon,Grass,128,G,19830620,022,200436,,,Carina Karlsson,U,,SWE,,,,200467,,,Janine Tremelling,U,,AUS,,,,6-3 6-4,3,Q1
 1983-W-SL-GBR-01A-1983,Wimbledon,Grass,128,G,19830620,023,200426,,,Kim Staunton,U,,AUS,,,,203826,,,Lynn Jacobs,U,,RSA,,,,6-2 6-3,3,Q1
@@ -140,7 +140,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1983-W-SL-USA-01A-1983,US Open,Hard,128,G,19830830,003,200454,,,Myriam Schropp,U,,GER,,,,203887,,,Lara De Angelis,U,,ITA,,,,6-1 6-0,3,Q1
 1983-W-SL-USA-01A-1983,US Open,Hard,128,G,19830830,004,200576,15,,Nathalie Herreman,U,,FRA,,,,200438,,,Michaela Washington,U,,USA,,,,6-3 6-1,3,Q1
 1983-W-SL-USA-01A-1983,US Open,Hard,128,G,19830830,005,200256,7,,Chris Oneil,R,,AUS,,,,201023,,,Eileen Tell,U,,USA,,,,6-2 4-6 6-1,3,Q1
-1983-W-SL-USA-01A-1983,US Open,Hard,128,G,19830830,006,201176,,,Jane Forman,U,,USA,,,,202079,,,Kathy Obrien,U,,USA,,,,6-4 2-6 7-5,3,Q1
+1983-W-SL-USA-01A-1983,US Open,Hard,128,G,19830830,006,201176,,,Jane Forman,U,,USA,,,,202079,,,Kathy O'Brien,U,,USA,,,,6-4 2-6 7-5,3,Q1
 1983-W-SL-USA-01A-1983,US Open,Hard,128,G,19830830,007,200450,,,Larisa Savchenko,U,,URS,,,,200416,,,Robin White,U,,USA,,,,6-3 6-4,3,Q1
 1983-W-SL-USA-01A-1983,US Open,Hard,128,G,19830830,008,200443,,,Sara Gomer,U,,GBR,,,,200999,9,,Felicia Raschiatore,U,,USA,,,,6-3 6-7 6-1,3,Q1
 1983-W-SL-USA-01A-1983,US Open,Hard,128,G,19830830,009,201166,,,Shelly Walpole,U,,GBR,,,,200418,4,,Amanda Brown,U,,GBR,,,,6-2 6-1,3,Q1

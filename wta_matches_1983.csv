@@ -1389,7 +1389,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1983-W-WT-USA-22A-1983,Manhattan Beach,Hard,56,W,19830808,008,200420,,,Anna Maria Fernandez,U,,USA,,,,200346,,,Anne Minter,U,,AUS,,,,7-6 6-4,3,R64
 1983-W-WT-USA-22A-1983,Manhattan Beach,Hard,56,W,19830808,009,201035,,Q,Kate Gompert,U,,USA,,,,200492,,,Tina Mochizuki,R,,USA,,,,6-2 6-4,3,R64
 1983-W-WT-USA-22A-1983,Manhattan Beach,Hard,56,W,19830808,010,200408,12,,Alycia Moulton,U,,USA,,,,200985,,Q,Trey Lewis,U,,USA,,,,6-0 6-1,3,R64
-1983-W-WT-USA-22A-1983,Manhattan Beach,Hard,56,W,19830808,011,200343,,,Susan Leo,U,,AUS,,,,202079,,Q,Kathy Obrien,U,,USA,,,,1-6 7-6 6-3,3,R64
+1983-W-WT-USA-22A-1983,Manhattan Beach,Hard,56,W,19830808,011,200343,,,Susan Leo,U,,AUS,,,,202079,,Q,Kathy O'Brien,U,,USA,,,,1-6 7-6 6-3,3,R64
 1983-W-WT-USA-22A-1983,Manhattan Beach,Hard,56,W,19830808,012,200364,,,Barbara Hallquist,U,,USA,,,,200468,,,Hu Na,U,,USA,,,,6-4 6-3,3,R64
 1983-W-WT-USA-22A-1983,Manhattan Beach,Hard,56,W,19830808,013,200444,,,Elise Burgin,U,,USA,,,,200500,,Q,Pilar Vasquez,U,,PER,,,,6-4 6-0,3,R64
 1983-W-WT-USA-22A-1983,Manhattan Beach,Hard,56,W,19830808,014,200407,,,Camille Benjamin,U,,USA,,,,200333,,,Betsy Nagelsen,R,,USA,,,,4-6 6-3 7-6,3,R64
@@ -1817,7 +1817,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1983-W-WT-USA-25A-1983,Richmond,Carpet,32,W,19830919,029,200357,5,,Rosalyn Nideffer,R,,USA,,,,200375,1,,Barbara Potter,U,,USA,,,,6-4 5-7 6-4,3,SF
 1983-W-WT-USA-25A-1983,Richmond,Carpet,32,W,19830919,030,200389,2,,Kathy Jordan,U,,USA,,,,200402,6,,Wendy Prausa,R,,USA,,,,1-6 6-1 6-1,3,SF
 1983-W-WT-USA-25A-1983,Richmond,Carpet,32,W,19830919,031,200357,5,,Rosalyn Nideffer,R,,USA,,,,200389,2,,Kathy Jordan,U,,USA,,,,6-4 5-7 6-4,3,F
-1983-W-WT-USA-24A-1983,Salt Lake City,Hard,32,W,19830912,001,200410,1,,Yvonne Vermaak,R,,RSA,,,,202079,,,Kathy Obrien,U,,USA,,,,7-5 6-3,3,R32
+1983-W-WT-USA-24A-1983,Salt Lake City,Hard,32,W,19830912,001,200410,1,,Yvonne Vermaak,R,,RSA,,,,202079,,,Kathy O'Brien,U,,USA,,,,7-5 6-3,3,R32
 1983-W-WT-USA-24A-1983,Salt Lake City,Hard,32,W,19830912,002,202159,,,Debbie Robb,U,,USA,,,,200977,,,Dana Gilbert,U,,USA,,,,4-6 6-4 6-2,3,R32
 1983-W-WT-USA-24A-1983,Salt Lake City,Hard,32,W,19830912,003,200443,,,Sara Gomer,U,,GBR,,,,200464,,,Ann Henricksson,U,,USA,,,,6-4 4-6 6-4,3,R32
 1983-W-WT-USA-24A-1983,Salt Lake City,Hard,32,W,19830912,004,200466,,,Molly Van Nostrand,U,,USA,,,,201005,5,,Amy Holton,U,,USA,,,,5-7 6-1 6-4,3,R32
@@ -1966,7 +1966,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1983-W-WT-USA-30A-1983,Tarpon Springs,Hard,32,W,19831010,030,200360,2,,Pam Shriver,R,,USA,,,,200419,4,,Kathy Rinaldi Stunkel,U,,USA,,,,6-3 6-3,3,SF
 1983-W-WT-USA-30A-1983,Tarpon Springs,Hard,32,W,19831010,031,200293,1,,Martina Navratilova,L,173,USA,,,,200360,2,,Pam Shriver,R,,USA,,,,6-3 6-2,3,F
 1983-W-WT-JPN-03A-1983,Tokyo,Hard,32,W,19831010,001,200465,1,,Lisa Bonder Kreiss,R,,USA,,,,200363,,,Hana Strachonova,U,,SUI,,,,6-3 6-1,3,R32
-1983-W-WT-JPN-03A-1983,Tokyo,Hard,32,W,19831010,002,200367,,,Nanette Schutte,U,,NED,,,,202079,,,Kathy Obrien,U,,USA,,,,3-6 6-3 6-2,3,R32
+1983-W-WT-JPN-03A-1983,Tokyo,Hard,32,W,19831010,002,200367,,,Nanette Schutte,U,,NED,,,,202079,,,Kathy O'Brien,U,,USA,,,,3-6 6-3 6-2,3,R32
 1983-W-WT-JPN-03A-1983,Tokyo,Hard,32,W,19831010,003,200976,,,Stacy Margolin,U,,USA,,,,200256,,,Chris Oneil,R,,AUS,,,,6-3 6-2,3,R32
 1983-W-WT-JPN-03A-1983,Tokyo,Hard,32,W,19831010,004,200434,6,,Shelley Solomon,U,,USA,,,,201259,,,Sonoe Yonezawa,U,,JPN,,,,6-2 6-3,3,R32
 1983-W-WT-JPN-03A-1983,Tokyo,Hard,32,W,19831010,005,200424,4,,Etsuko Inoue,U,,JPN,,,,201897,,,Helena Manset,U,,USA,,,,6-4 6-4,3,R32
