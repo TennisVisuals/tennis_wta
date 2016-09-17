@@ -1,6 +1,6 @@
 tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,winner_rank,winner_rank_points,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,loser_rank,loser_rank_points,score,best_of,round
 1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,001,200221,1,,Dianne Balestrat,U,,AUS,,,,200328,,,Patricia Bostrom,U,,USA,,,,6-0 3-0 RET,3,R32
-1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,002,200213,,,Jan Oneill,U,,AUS,,,,200233,,,Christine Dorey,U,,AUS,,,,6-4 4-6 6-4,3,R32
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,002,200213,,,Jan O'Neill,U,,AUS,,,,200233,,,Christine Dorey,U,,AUS,,,,6-4 4-6 6-4,3,R32
 1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,003,200755,,,Daniela Marzano,U,,ITA,,,,200254,,,Michele Gurdal,U,,BEL,,,,3-6 6-4 6-1,3,R32
 1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,004,200306,,,Jan Wilton,U,,AUS,,,,200160,,,Judy Dalton,U,,AUS,,,,6-3 4-6 6-1,3,R32
 1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,005,200273,,,Nerida Gregory,U,,AUS,,,,200333,4,,Betsy Nagelsen,R,,USA,,,,2-6 7-5 6-3,3,R32
@@ -15,7 +15,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,014,200759,,,Katja Ebbinghaus,U,,FRG,,,,200316,,,Heidi Eisterlehner,R,,GER,,,,6-1 6-2,3,R32
 1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,015,200171,,,Janet Young,U,,AUS,,,,200256,,,Chris Oneil,R,,AUS,,,,6-7 6-4 6-3,3,R32
 1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,016,200176,2,,Kerry Reid,R,,AUS,,,,200129,,,Lesley Bowrey,R,,AUS,,,,6-3 6-2,3,R32
-1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,017,200221,1,,Dianne Balestrat,U,,AUS,,,,200213,,,Jan Oneill,U,,AUS,,,,6-1 6-2,3,R16
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,017,200221,1,,Dianne Balestrat,U,,AUS,,,,200213,,,Jan O'Neill,U,,AUS,,,,6-1 6-2,3,R16
 1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,018,200306,,,Jan Wilton,U,,AUS,,,,200755,,,Daniela Marzano,U,,ITA,,,,6-2 6-3,3,R16
 1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,019,200168,,,Karen Krantzcke,R,,AUS,,,,200273,,,Nerida Gregory,U,,AUS,,,,6-4 6-1,3,R16
 1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,020,200326,,,Naoko Sato,U,,JPN,,,,200234,,,Pam Whytcross,U,,AUS,,,,7-5 6-3,3,R16
